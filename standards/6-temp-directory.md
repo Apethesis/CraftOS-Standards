@@ -1,4 +1,4 @@
-# *COS 7:* Temporary Directory
+# *COS 6:* Temporary Directory
 
 ## Quick information
 | Information |                                                                 |
