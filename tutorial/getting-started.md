@@ -1,6 +1,6 @@
 # Getting Started: Designing a CraftOS standard
 If you're reading this, you would probably like to propose a new standard to be accepted by
-the [ComputerCraft](http://computercraft.info) community. If you follow this guide to the point and eventually get your
+the [ComputerCraft](https://tweaked.cc/) community. If you follow this guide to the point and eventually get your
 standard accepted, your proposal will rest in this repository *forever*, and might
 even [get recommended](ToDo:Point this somewhere) and adopted by many CraftOS developers. Is that not what every
 programmer wishes for? Let's get you started!

@@ -1,10 +1,8 @@
 # CraftOS Standards
 
-[![Join the chat at https://gitter.im/oeed/CraftOS-Standards](https://badges.gitter.im/oeed/CraftOS-Standards.svg)](https://gitter.im/oeed/CraftOS-Standards?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+*Community standard file formats, communication systems, etc. for ComputerCraft: Tweaked and CraftOS 1.8*
 
-*Community standard file formats, communication systems, etc. for ComputerCraft and CraftOS 2.0*
-
-If you're developing a program for ComputerCraft or CraftOS 2.0 it is highly recommended to adopt the systems
+If you're developing a program for ComputerCraft: Tweaked or CraftOS 1.8 it is highly recommended to adopt the systems
 standardised here. It allows for cross-program compatibility and formats/systems that are well thought out.
 
 ----
@@ -23,8 +21,8 @@ If you have a standard you would like to propose follow these steps:
 
 1. **Make sure there isn't an existing standard:** The whole point of this repo is to ensure we don't have
    two [slightly different standards](https://xkcd.com/927/); there should only be one. You can either check
-   the [PR page](https://github.com/oeed/CraftOS-Standards/pulls?q=is%3Apr) or directly browse
-   the [source tree](https://github.com/oeed/CraftOS-Standards/tree/master/) of this repository. You should also look at
+   the [PR page](https://github.com/Apethesis/CraftOS-Standards/pulls?q=is%3Apr) or directly browse
+   the [source tree](https://github.com/Apethesis/CraftOS-Standards/tree/master/) of this repository. You should also look at
    the Submission Checklist (further down this page).
 2. **Develop your standard:** Think about the different use cases and try to create clearly defined standards and rules
    for your standard. If applicable, it's probably a good idea to create an API or example code for your standard.
@@ -70,16 +68,6 @@ If you think you're reading to create your pull request ask yourself these quest
 
 ## Moderators
 
-When in doubt, contact these people either on [gitter](https://gitter.im) or
-on [the forums](http://www.computercraft.info/forums2/).
+When in doubt, contact these people on [the forums](https://forums.computercraft.cc/index.php).
 
-- [oeed](https://github.com/oeed) - [forum profile](http://www.computercraft.info/forums2/index.php?/user/12402-oeed/)
-- [viluon](https://github.com/viluon) -
-  [forum profile](http://www.computercraft.info/forums2/index.php?/user/4290-viluon/)
-
-If neither of these contributors is available, you can contact the following people as a last resort. They should not be
-bothered if anyone from the main list is reachable in a span of 2-3 days.
-
-- [Lyqyd](https://github.com/Lyqyd) - [forum profile](http://www.computercraft.info/forums2/index.php?/user/1736-lyqyd/)
-- [dan200](https://github.com/dan200) -
-  [forum profile](http://www.computercraft.info/forums2/index.php?/user/27-dan200/)
+- [Apethesis](https://github.com/Apethesis) - [forum profile](https://forums.computercraft.cc/index.php?action=profile;u=685)
